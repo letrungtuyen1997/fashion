@@ -1,0 +1,171 @@
+
+hand.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hand1
+  rotate: false
+  xy: 1703, 1257
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand10
+  rotate: false
+  xy: 2, 226
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 2, 114
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: false
+  xy: 1703, 1033
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: false
+  xy: 88, 226
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand5
+  rotate: false
+  xy: 1703, 1145
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand6
+  rotate: false
+  xy: 1789, 1257
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand7
+  rotate: false
+  xy: 2, 2
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand8
+  rotate: false
+  xy: 88, 114
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hand9
+  rotate: false
+  xy: 174, 226
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 1875, 1261
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+tay10
+  rotate: false
+  xy: 2, 338
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 569, 338
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay3
+  rotate: false
+  xy: 1136, 338
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+hand2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tay4
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay5
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay6
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+hand3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tay7
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay8
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+tay9
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+hand4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tay1
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1

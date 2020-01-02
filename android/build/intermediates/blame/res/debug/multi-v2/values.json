@@ -1,0 +1,195 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "93",
+                        "startColumns": "4",
+                        "startOffsets": "7558",
+                        "endLines": "100",
+                        "endColumns": "12",
+                        "endOffsets": "8016"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e4bf190f4edd9c19f53a3fe7dac26d43/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "112",
+                        "startColumns": "4",
+                        "startOffsets": "8779",
+                        "endLines": "119",
+                        "endColumns": "8",
+                        "endOffsets": "9172"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/043a33c6b0346fc4323a438f94de6037/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,59,60,61,62,63,64,65,66,68,69,70,71,72,73,74,75,76",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "460,550,630,720,810,890,971,1051,3960,4065,4246,4371,4478,4658,4781,4897,5167,5355,5460,5641,5766,5941,6089,6152,6214",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
+                        "endOffsets": "545,625,715,805,885,966,1046,1126,4060,4241,4366,4473,4653,4776,4892,4995,5350,5455,5636,5761,5936,6084,6147,6209,6288"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/3b837f3bd3e7c7f0e38c7e1674df4a25/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,92,101,102,106,107,111,120,121",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1187,1256,1319,1377,1594,1664,1732,1804,1874,1935,2009,2082,2143,2204,2266,2330,2392,2453,2521,2621,2681,2747,2820,2889,2946,2998,3060,3132,3208,3243,3278,3328,3389,3446,3480,3515,3618,7487,8021,8138,8339,8449,8650,9177,9249",
+                        "endLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,92,101,105,106,110,111,120,121",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "1251,1314,1372,1446,1659,1727,1799,1869,1930,2004,2077,2138,2199,2261,2325,2387,2448,2516,2616,2676,2742,2815,2884,2941,2993,3055,3127,3203,3238,3273,3323,3384,3441,3475,3510,3545,3683,7553,8133,8334,8444,8645,8774,9244,9311"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "3795",
+                        "endColumns": "164",
+                        "endOffsets": "3955"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "77,78,79,80,81,82,83,84",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "6293,6437,6545,6627,6731,6840,6960,7057",
+                        "endColumns": "143,107,81,103,108,119,96,73",
+                        "endOffsets": "6432,6540,6622,6726,6835,6955,7052,7126"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/9d454e2b0cf721dfb5040eefd61dbf7e/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,20,21",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "211,269,335,398,1451,1522",
+                        "endColumns": "57,65,62,61,70,71",
+                        "endOffsets": "264,330,393,455,1517,1589"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "114,-1",
+                        "endColumns": "48,-1",
+                        "endOffsets": "158,-1"
+                    },
+                    "to": {
+                        "startLines": "56,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "3688,3737",
+                        "endColumns": "48,57",
+                        "endOffsets": "3732,3790"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/color.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "1131",
+                        "endColumns": "55",
+                        "endOffsets": "1182"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e51543830fa777f76073f48041483fbe/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "85,86,87,88,89,90,91",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "7131,7173,7250,7288,7327,7380,7448",
+                        "endColumns": "41,76,37,38,52,67,38",
+                        "endOffsets": "7168,7245,7283,7322,7375,7443,7482"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/1b03575bd68f20684ebc8d712b7249cf/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,122",
+                        "startColumns": "4,4",
+                        "startOffsets": "150,9316",
+                        "endLines": "2,124",
+                        "endColumns": "60,12",
+                        "endOffsets": "206,9456"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/be828d225f80314f785bf5d3969024c6/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "54,67",
+                        "startColumns": "4,4",
+                        "startOffsets": "3550,5000",
+                        "endColumns": "67,166",
+                        "endOffsets": "3613,5162"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+
+shoes.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+giay1
+  rotate: false
+  xy: 2, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay2
+  rotate: false
+  xy: 569, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay3
+  rotate: false
+  xy: 1136, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 2, 2
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+
+shoes2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+giay4
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay5
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay6
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+shoes3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+giay7
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay8
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+giay9
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+shoes4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+giay10
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1

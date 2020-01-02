@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d7ecd0-030e-4afb-a9f8-89cc08e48442" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/fontRed.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/fontRed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_Red.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_Red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_white.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_white1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/font/font_white2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/061.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/14-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/18-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/2-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/20-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/9-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/ITEM_Sp_04_Howl_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/L001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/PC_Gourd_magicEF_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/PC_PeaD_skill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/PC_PeaD_skillEF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_Offset_00_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_Offset_00_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_XiangZ_01_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_XiangZ_03_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_XiangZ_03_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/SL_XiangZ_03_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/UI_QiangHua02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/Win" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/effect9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/feng1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/liuxing6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/ls001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/m003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/shanguang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/sjd01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/sjd02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/sjd03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/sjd04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/spark-alt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/star11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/wsparticle_c_electric3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/wujiaoxing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/wujiaoxing0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/yezi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/yf14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/particle/yf2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/6567d670-24e0-4b04-8e4c-44d1b34e8617.a2ba0.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/Gin.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/Toggle.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg0.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/bg9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/button.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/click.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/erase.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/new.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/panelOut.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/panel_close.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/panel_open.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/result.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/switchIn.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/switchOut.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/sound/under_attack.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/spine/girl.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/spine/girl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/spine/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/effect/SoundEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/effect/effect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/platform/ToggleHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/commons/Tweens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/commons/_ToggleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListAccessories1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListAccessories2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListAccessories3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListBg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListDress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListHair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListShoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/ListTrousers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/Spine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/object/setting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/scenes/GamePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/scenes/GameStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/GPoolInfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/GPoolInfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/textureAtlas/ColorMatch.atlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/textureAtlas/ColorMatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/textureAtlas/menu.atlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/assets/textureAtlas/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/src/com/jkstudiogroup/template/AndroidLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/android/src/com/jkstudiogroup/template/AndroidLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/GMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/GMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/ColorGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/ColorGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/objects/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/gameLogic/objects/ShapeLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics/core/src/com/ss/scenes/GameScene.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Template-Libgdx-AdMod-Crashlytics" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fashion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fashion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="192.168.1.8:5555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d7ecd0-030e-4afb-a9f8-89cc08e48442" name="Default Changelist" comment="" />
+      <created>1575430510810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575430510810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
+    <layout>
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33476394" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" weight="0.3288948" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Build" weight="0.3288948" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+</project>

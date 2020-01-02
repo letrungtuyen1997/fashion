@@ -1,0 +1,94 @@
+
+dress.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vay1
+  rotate: false
+  xy: 569, 6
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+vay10
+  rotate: false
+  xy: 2, 2
+  size: 565, 1033
+  orig: 565, 1033
+  offset: 0, 0
+  index: -1
+vay2
+  rotate: false
+  xy: 1136, 6
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+dress2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vay3
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+vay4
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+vay5
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+dress3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vay6
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+vay7
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+vay8
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+dress4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vay9
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1

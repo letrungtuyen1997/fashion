@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">405837718412-7arc76ijtoa64bhljla5m23gipiaum4m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://jkcloth-d7e29.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">405837718412</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlbLBGgdUCSTbzLPX1xDNtq91RbMgLLdU</string>
+    <string name="google_app_id" translatable="false">1:405837718412:android:f13e908afa521fcb976ca9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlbLBGgdUCSTbzLPX1xDNtq91RbMgLLdU</string>
+    <string name="google_storage_bucket" translatable="false">jkcloth-d7e29.appspot.com</string>
+    <string name="project_id" translatable="false">jkcloth-d7e29</string>
+</resources>

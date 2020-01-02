@@ -1,0 +1,101 @@
+
+trousers.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lock
+  rotate: false
+  xy: 2, 2
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: false
+  xy: 2, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 569, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan3
+  rotate: false
+  xy: 1136, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+trousers2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+quan4
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan5
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan6
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+trousers3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+quan7
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan8
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+quan9
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+trousers4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+quan10
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1

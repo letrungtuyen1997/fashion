@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405837718412",
+    "firebase_url": "https://jkcloth-d7e29.firebaseio.com",
+    "project_id": "jkcloth-d7e29",
+    "storage_bucket": "jkcloth-d7e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405837718412:android:f13e908afa521fcb976ca9",
+        "android_client_info": {
+          "package_name": "jk.cloth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405837718412-7arc76ijtoa64bhljla5m23gipiaum4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbLBGgdUCSTbzLPX1xDNtq91RbMgLLdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405837718412-7arc76ijtoa64bhljla5m23gipiaum4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

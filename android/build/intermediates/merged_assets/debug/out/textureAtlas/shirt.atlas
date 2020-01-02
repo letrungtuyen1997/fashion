@@ -1,0 +1,101 @@
+
+shirt.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ao1
+  rotate: false
+  xy: 2, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao2
+  rotate: false
+  xy: 569, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao3
+  rotate: false
+  xy: 1136, 110
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 2, 2
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+
+shirt2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ao4
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao5
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao6
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+shirt3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ao7
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao8
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+ao9
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+shirt4.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ao10
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1

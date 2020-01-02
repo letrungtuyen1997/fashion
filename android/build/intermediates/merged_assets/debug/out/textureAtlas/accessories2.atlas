@@ -1,0 +1,151 @@
+
+accessories2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+co1
+  rotate: false
+  xy: 2, 452
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co2
+  rotate: false
+  xy: 569, 452
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co3
+  rotate: false
+  xy: 1136, 452
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 1703, 1075
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+neck1
+  rotate: false
+  xy: 2, 302
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: false
+  xy: 1703, 1333
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck3
+  rotate: false
+  xy: 2, 152
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck4
+  rotate: false
+  xy: 100, 302
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck5
+  rotate: false
+  xy: 1703, 1183
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck6
+  rotate: false
+  xy: 1801, 1333
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck7
+  rotate: false
+  xy: 2, 2
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck8
+  rotate: false
+  xy: 100, 152
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+neck9
+  rotate: false
+  xy: 198, 302
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+
+accessories22.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+co4
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co5
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co6
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+
+accessories23.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+co7
+  rotate: false
+  xy: 2, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co8
+  rotate: false
+  xy: 569, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
+co9
+  rotate: false
+  xy: 1136, 2
+  size: 565, 1029
+  orig: 565, 1029
+  offset: 0, 0
+  index: -1
