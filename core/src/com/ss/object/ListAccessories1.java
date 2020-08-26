@@ -8,6 +8,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.badlogic.gdx.scenes.scene2d.utils.DragListener;
 import com.badlogic.gdx.utils.Align;
 import com.badlogic.gdx.utils.Array;
 import com.effect.SoundEffect;
@@ -24,6 +25,8 @@ public class ListAccessories1 {
     private Table container;
     private Array<Image> arrItem = new Array<>();
     private GamePlay gamePlay;
+    ScrollPane scroll1;
+    private boolean isDrag = false;
 
 
     public ListAccessories1(TextureAtlas atlas, Group group, GamePlay gamePlay){
@@ -33,8 +36,6 @@ public class ListAccessories1 {
         this.atlas = atlas;
         loadListItem();
         addListenner();
-
-
     }
 
 
@@ -60,20 +61,34 @@ public class ListAccessories1 {
         container.setPosition(0,GStage.getWorldHeight()-paddingY+60);
         group.addActor(container);
         Table table = new Table();
-        final ScrollPane scroll1 = new ScrollPane(table);
+        scroll1 = new ScrollPane(table);
         container.add(scroll1);
         table.add(groupItem);
         table.row();
+        scroll1.cancel();
+
     }
     private void addListenner(){
         for (int i =0 ;i<arrItem.size;i++){
             int finalI = i;
             arrItem.get(i).addListener(new ClickListener(){
                 @Override
-                public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
-                    SoundEffect.Play(SoundEffect.click);
-                    gamePlay.showAccessories1(finalI);
-                    return super.touchDown(event, x, y, pointer, button);
+                public void touchUp(InputEvent event, float x, float y, int pointer, int button) {
+                    super.touchUp(event, x, y, pointer, button);
+                    if(isDrag){
+                        isDrag=false;
+                    }else {
+                        SoundEffect.Play(SoundEffect.click);
+                        //System.out.println("checlk:"+scroll1.isDragging());
+                        gamePlay.showAccessories1(finalI);
+                    }
+                }
+            });
+            arrItem.get(i).addListener(new DragListener(){
+                @Override
+                public void dragStart(InputEvent event, float x, float y, int pointer) {
+                    super.dragStart(event, x, y, pointer);
+                    isDrag =true;
                 }
             });
 

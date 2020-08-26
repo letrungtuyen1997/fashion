@@ -1,5 +1,6 @@
 package com.ss.scenes;
 
+import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Interpolation;
@@ -36,9 +37,6 @@ import com.ss.object.ListTrousers;
 import com.ss.object.setting;
 
 import java.nio.ByteBuffer;
-
-
-
 public class GamePlay extends GScreen {
     private TextureAtlas atlas, atlashair,atlasshoes, atlasshirt, atlastrousers, atlasdress, atlasaccessories1,atlasaccessories2,atlasaccessories3,atlasBg;
     private Group group = new Group();
@@ -83,12 +81,12 @@ public class GamePlay extends GScreen {
     private Group groupBg = new Group();
     private Label diem;
     private  int countAds =0;
+    private  int Fps=0;
 
     @Override
     public void dispose() {
 
     }
-
     @Override
     public void init() {
         GStage.addToLayer(GLayer.ui,group);
@@ -120,7 +118,23 @@ public class GamePlay extends GScreen {
         ScreenShot();
         loadEffect();
         showbuttonSetting();
+        //getfps();
 
+    }
+    private void getfps(){
+        Group gr = new Group();
+        GStage.addToLayer(GLayer.top,gr);
+        Fps = Gdx.graphics.getFramesPerSecond();
+        Label fps = new Label("Fps:"+Fps,new Label.LabelStyle(fontRed,null));
+        fps.setPosition(0,100);
+        gr.addActor(fps);
+        group.addAction(
+                GSimpleAction.simpleAction((d,a)->{
+                    Fps = Gdx.graphics.getFramesPerSecond();
+                    fps.setText("Fps: "+Fps);
+                    return false;
+                })
+        );
     }
 
     @Override
@@ -157,6 +171,18 @@ public class GamePlay extends GScreen {
 
             }
         });
+        anibtnShow(btnShow);
+    }
+    private void anibtnShow(Image btn){
+        btn.addAction(Actions.sequence(
+                Actions.scaleTo(0.8f,0.8f,0.5f),
+                Actions.scaleTo(1f,1f,0.5f),
+                Actions.delay(2f),
+                GSimpleAction.simpleAction((d,a)->{
+                    anibtnShow(btn);
+                    return true;
+                })
+        ));
     }
     void Anishow(){
         groupButton.setVisible(false);
@@ -420,7 +446,13 @@ public class GamePlay extends GScreen {
             Result += arrScore.get(i);
         }
         Result = Result/3;
-        GMain.platform.ReportScore(Result);
+        int highSc = GMain.Pref.getInteger("highSc",0);
+        if(highSc<Result){
+            GMain.Pref.putInteger("highSc",Result);
+            GMain.Pref.flush();
+            highSc = Result;
+        }
+        GMain.platform.ReportScore(highSc);
         Label score = new Label(""+Result,new Label.LabelStyle(fontRed,null));
         score.setFontScale(2);
         score.setOrigin(Align.center);
@@ -587,11 +619,11 @@ public class GamePlay extends GScreen {
                 @Override
                 public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
                     SoundEffect.Play(SoundEffect.toggle);
-                    countAds++;
-                    if(countAds==4){
-                        countAds=0;
-                        GMain.platform.ShowFullscreen();
-                    }
+//                    countAds++;
+//                    if(countAds==20){
+//                        countAds=0;
+//                        GMain.platform.ShowFullscreen();
+//                    }
                     for(int i = 0; i<ArrButtonOn.size;i++){
                         if(i==finalI){
                             ArrButtonOn.get(i).setVisible(true);
@@ -614,11 +646,11 @@ public class GamePlay extends GScreen {
                 @Override
                 public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
                     SoundEffect.Play(SoundEffect.toggle);
-                    countAds++;
-                    if(countAds==4){
-                        countAds=0;
-                        GMain.platform.ShowFullscreen();
-                    }
+//                    countAds++;
+//                    if(countAds==30){
+//                        countAds=0;
+//                        GMain.platform.ShowFullscreen();
+//                    }
                     for(int i = 0; i<ArrButtonOn.size;i++){
                         if(i==finalI){
                             ArrButtonOn.get(i).setVisible(true);
@@ -1131,22 +1163,25 @@ public class GamePlay extends GScreen {
                 return super.touchDown(event, x, y, pointer, button);
             }
         });
-
-
+    }
+    public void resetAll(){
+        show=0;
+        arrEffectAll.clear();
     }
 
     private void initAtlas(){
-        this.atlas = GameStart.atlas;
-        this.atlashair = GameStart.atlashair;
-        this.atlasshoes = GameStart.atlasshoes;
-        this.atlasshirt = GameStart.atlasshirt;
-        this.atlastrousers = GameStart.atlastrousers;
-        this.atlasdress = GameStart.atlasdress;
-        this.atlasaccessories1 = GameStart.atlasaccessories1;
-        this.atlasaccessories2 = GameStart.atlasaccessories2;
-        this.atlasaccessories3 = GameStart.atlasaccessories3;
-        this.atlasBg = GameStart.atlasBg;
-        this.fontRed = GameStart.fontRed;
-        this.font = GameStart.font;
+        this.atlas              = GameLoadding.atlas;
+        this.atlashair          = GameLoadding.atlashair;
+        this.atlasshoes         = GameLoadding.atlasshoes;
+        this.atlasshirt         = GameLoadding.atlasshirt;
+        this.atlastrousers      = GameLoadding.atlastrousers;
+        this.atlasdress         = GameLoadding.atlasdress;
+        this.atlasaccessories1  = GameLoadding.atlasaccessories1;
+        this.atlasaccessories2  = GameLoadding.atlasaccessories2;
+        this.atlasaccessories3  = GameLoadding.atlasaccessories3;
+        this.atlasBg            = GameLoadding.atlasBg;
+        this.fontRed            = GameLoadding.fontRed;
+        this.font               = GameLoadding.font;
+
     }
 }

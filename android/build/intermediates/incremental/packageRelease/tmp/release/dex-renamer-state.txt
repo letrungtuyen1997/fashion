@@ -1,4 +1,4 @@
-#Wed Dec 25 15:48:40 ICT 2019
-base.0=/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/transforms/r8/release/0
+#Mon Aug 03 14:50:39 ICT 2020
+base.0=/Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/transforms/r8/release/0
 path.0=classes.dex
 renamed.0=classes.dex

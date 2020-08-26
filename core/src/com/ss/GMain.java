@@ -14,6 +14,7 @@ import com.ss.core.util.GScreen;
 import com.ss.core.util.GStage;
 import com.ss.core.util.GStage.StageBorder;
 import com.ss.gameLogic.config.C;
+import com.ss.scenes.GameLoadding;
 import com.ss.scenes.GamePlay;
 import com.ss.scenes.GameStart;
 
@@ -146,7 +147,7 @@ public class GMain extends GDirectedGame {
 
       this.init();
       C.init();
-      this.setScreen(new GameStart());
+      this.setScreen(new GameLoadding());
   }
   
   public void dispose()

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/d8ddac16b8b7499322fa7d58b4bae3e7/res/values-watch-v20/values.xml",

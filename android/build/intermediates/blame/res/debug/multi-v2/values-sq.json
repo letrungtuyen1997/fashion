@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
+            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
             "map": [
                 {
                     "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/3b837f3bd3e7c7f0e38c7e1674df4a25/res/values-sq/values-sq.xml",

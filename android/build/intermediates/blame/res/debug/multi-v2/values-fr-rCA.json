@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/be828d225f80314f785bf5d3969024c6/res/values-fr-rCA/values.xml",

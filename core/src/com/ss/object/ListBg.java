@@ -13,6 +13,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.badlogic.gdx.scenes.scene2d.utils.DragListener;
 import com.badlogic.gdx.utils.Align;
 import com.badlogic.gdx.utils.Array;
 import com.effect.SoundEffect;
@@ -35,6 +36,7 @@ public class ListBg {
     private GamePlay gamePlay;
     private String[] str2;
     private BitmapFont font;
+    private boolean isDrag =false;
 
 
 
@@ -50,7 +52,7 @@ public class ListBg {
             GMain.Pref.putInteger("check2",1);
             GMain.Pref.flush();
         }else {
-            System.out.println("check:"+GMain.Pref.getString("bg"));
+           // System.out.println("check:"+GMain.Pref.getString("bg"));
             String str = GMain.Pref.getString("bg").replace("[","");
             str = str.replace("]","");
             str2  =str.split(",");
@@ -85,12 +87,12 @@ public class ListBg {
         }
         GMain.Pref.putString("bg",arrSet.toString());
         GMain.Pref.flush();
-        System.out.println("check:"+GMain.Pref.getString("bg"));
+      //  System.out.println("check:"+GMain.Pref.getString("bg"));
         String str = GMain.Pref.getString("bg").replace("[","");
         str = str.replace("]","");
         str2  =str.split(",");
         if(str2[0].equals("1")==false){
-            System.out.println("ok");
+        //    System.out.println("ok");
         }
     }
 
@@ -136,19 +138,30 @@ public class ListBg {
             arrItem.get(i).addListener(new ClickListener(){
                 @Override
                 public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
-                    SoundEffect.Play(SoundEffect.click);
-
-                    if(arrLock.get(finalI).isVisible()!=true){
-                        gamePlay.showBg(finalI);
-                        SoundEffect.Stopmusic(Config.indexMusic);
-                        SoundEffect.Playmusic(finalI+1);
-                        Config.indexMusic = finalI+1;
-                        setTouch(finalI);
+                    if(isDrag){
+                        isDrag = false;
                     }else {
-                        showFrmUnlock(finalI);
+                        SoundEffect.Play(SoundEffect.click);
+
+                        if(arrLock.get(finalI).isVisible()!=true){
+                            gamePlay.showBg(finalI);
+                            SoundEffect.Stopmusic(Config.indexMusic);
+                            SoundEffect.Playmusic(finalI+1);
+                            Config.indexMusic = finalI+1;
+                            setTouch(finalI);
+                        }else {
+                            showFrmUnlock(finalI);
+                        }
                     }
                     return super.touchDown(event, x, y, pointer, button);
 
+                }
+            });
+            arrItem.get(i).addListener(new DragListener(){
+                @Override
+                public void dragStart(InputEvent event, float x, float y, int pointer) {
+                    super.dragStart(event, x, y, pointer);
+                    isDrag =true;
                 }
             });
 

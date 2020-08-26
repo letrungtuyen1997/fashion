@@ -7,6 +7,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.badlogic.gdx.scenes.scene2d.utils.DragListener;
 import com.badlogic.gdx.utils.Align;
 import com.badlogic.gdx.utils.Array;
 import com.effect.SoundEffect;
@@ -23,6 +24,7 @@ public class ListAccessories2 {
     private Table container;
     private Array<Image> arrItem = new Array<>();
     private GamePlay gamePlay;
+    private boolean isDrag = false;
 
 
     public ListAccessories2(TextureAtlas atlas, Group group, GamePlay gamePlay){
@@ -70,11 +72,23 @@ public class ListAccessories2 {
             arrItem.get(i).addListener(new ClickListener(){
                 @Override
                 public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
-                    SoundEffect.Play(SoundEffect.click);
-                    gamePlay.showAccessories2(finalI);
+                    if(isDrag){
+                        isDrag = false;
+                    }else {
+                        SoundEffect.Play(SoundEffect.click);
+                        gamePlay.showAccessories2(finalI);
+                    }
                     return super.touchDown(event, x, y, pointer, button);
                 }
             });
+            arrItem.get(i).addListener(new DragListener(){
+                @Override
+                public void dragStart(InputEvent event, float x, float y, int pointer) {
+                    super.dragStart(event, x, y, pointer);
+                    isDrag =true;
+                }
+            });
+
 
         }
 

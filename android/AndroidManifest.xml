@@ -28,6 +28,7 @@
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-9108876944724815~6579755959"/>
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id" />
     </application>
 
 </manifest>

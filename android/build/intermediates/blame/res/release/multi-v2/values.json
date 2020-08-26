@@ -1,22 +1,36 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/styles.xml",
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/android/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "93",
-                        "startColumns": "4",
-                        "startOffsets": "7557",
-                        "endLines": "100",
-                        "endColumns": "12",
-                        "endOffsets": "8015"
+                        "startLines": "56,57,84,85",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3688,3736,7056,7148",
+                        "endColumns": "47,57,91,70",
+                        "endOffsets": "3731,3789,7143,7214"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/android/build/generated/res/google-services/release/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "77,78,79,80,81,82,83,86",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "6292,6436,6544,6626,6730,6839,6959,7219",
+                        "endColumns": "143,107,81,103,108,119,96,73",
+                        "endOffsets": "6431,6539,6621,6725,6834,6954,7051,7288"
                     }
                 },
                 {
@@ -27,12 +41,12 @@
                         "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "112",
+                        "startLines": "114",
                         "startColumns": "4",
-                        "startOffsets": "8778",
-                        "endLines": "119",
+                        "startOffsets": "8941",
+                        "endLines": "121",
                         "endColumns": "8",
-                        "endOffsets": "9171"
+                        "endOffsets": "9334"
                     }
                 },
                 {
@@ -58,12 +72,28 @@
                         "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,92,101,102,106,107,111,120,121",
+                        "startLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,94,103,104,108,109,113,122,123",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1187,1256,1319,1377,1594,1664,1732,1804,1874,1935,2009,2082,2143,2204,2266,2330,2392,2453,2521,2621,2681,2747,2820,2889,2946,2998,3060,3132,3208,3243,3278,3328,3389,3446,3480,3515,3618,7486,8020,8137,8338,8448,8649,9176,9248",
-                        "endLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,92,101,105,106,110,111,120,121",
+                        "startOffsets": "1187,1256,1319,1377,1594,1664,1732,1804,1874,1935,2009,2082,2143,2204,2266,2330,2392,2453,2521,2621,2681,2747,2820,2889,2946,2998,3060,3132,3208,3243,3278,3328,3389,3446,3480,3515,3618,7649,8183,8300,8501,8611,8812,9339,9411",
+                        "endLines": "16,17,18,19,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,55,94,103,107,108,112,113,122,123",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "1251,1314,1372,1446,1659,1727,1799,1869,1930,2004,2077,2138,2199,2261,2325,2387,2448,2516,2616,2676,2742,2815,2884,2941,2993,3055,3127,3203,3238,3273,3323,3384,3441,3475,3510,3545,3683,7552,8132,8333,8443,8644,8773,9243,9310"
+                        "endOffsets": "1251,1314,1372,1446,1659,1727,1799,1869,1930,2004,2077,2138,2199,2261,2325,2387,2448,2516,2616,2676,2742,2815,2884,2941,2993,3055,3127,3203,3238,3273,3323,3384,3441,3475,3510,3545,3683,7715,8295,8496,8606,8807,8936,9406,9473"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/android/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "95",
+                        "startColumns": "4",
+                        "startOffsets": "7720",
+                        "endLines": "102",
+                        "endColumns": "12",
+                        "endOffsets": "8178"
                     }
                 },
                 {
@@ -82,22 +112,22 @@
                     }
                 },
                 {
-                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/strings.xml",
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e51543830fa777f76073f48041483fbe/res/values/values.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "56,57",
-                        "startColumns": "4,4",
-                        "startOffsets": "3688,3736",
-                        "endColumns": "47,57",
-                        "endOffsets": "3731,3789"
+                        "startLines": "87,88,89,90,91,92,93",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "7293,7335,7412,7450,7489,7542,7610",
+                        "endColumns": "41,76,37,38,52,67,38",
+                        "endOffsets": "7330,7407,7445,7484,7537,7605,7644"
                     }
                 },
                 {
-                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/res/values/color.xml",
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/android/res/values/color.xml",
                     "from": {
                         "startLines": "-1",
                         "startColumns": "-1",
@@ -112,21 +142,6 @@
                     }
                 },
                 {
-                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e51543830fa777f76073f48041483fbe/res/values/values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "85,86,87,88,89,90,91",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "7130,7172,7249,7287,7326,7379,7447",
-                        "endColumns": "41,76,37,38,52,67,38",
-                        "endOffsets": "7167,7244,7282,7321,7374,7442,7481"
-                    }
-                },
-                {
                     "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/1b03575bd68f20684ebc8d712b7249cf/res/values/values.xml",
                     "from": {
                         "startLines": "-1,-1",
@@ -134,12 +149,12 @@
                         "startOffsets": "-1,-1"
                     },
                     "to": {
-                        "startLines": "2,122",
+                        "startLines": "2,124",
                         "startColumns": "4,4",
-                        "startOffsets": "150,9315",
-                        "endLines": "2,124",
+                        "startOffsets": "150,9478",
+                        "endLines": "2,126",
                         "endColumns": "60,12",
-                        "endOffsets": "206,9455"
+                        "endOffsets": "206,9618"
                     }
                 },
                 {
@@ -158,22 +173,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/generated/res/google-services/release/values/values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "77,78,79,80,81,82,83,84",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "6292,6436,6544,6626,6730,6839,6959,7056",
-                        "endColumns": "143,107,81,103,108,119,96,73",
-                        "endOffsets": "6431,6539,6621,6725,6834,6954,7051,7125"
-                    }
-                },
-                {
-                    "source": "/Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml",
+                    "source": "/Users/dungle/Desktop/libgdx/Fashion/android/build/generated/fabric/res/release/values/com_crashlytics_build_id.xml",
                     "from": {
                         "startLines": "8",
                         "startColumns": "0",

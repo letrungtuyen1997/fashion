@@ -132,6 +132,8 @@ public class setting implements ToggleHandler {
                         Actions.scaleTo(1f,1f,0.1f)
                 ));
                 Tweens.setTimeout(group,0.2f,()->{
+                    SoundEffect.Stopmusic(Config.indexMusic);
+                    gamePlay.resetAll();
                     gamePlay.setScreen(new GameStart());
                 });
             }

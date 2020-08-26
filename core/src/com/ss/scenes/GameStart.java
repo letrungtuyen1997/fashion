@@ -107,18 +107,30 @@ public class GameStart extends GScreen {
     }
     private void initAtlas(){
 
-        atlas = GAssetsManager.getTextureAtlas("uiGame.atlas");
-        atlashair = GAssetsManager.getTextureAtlas("head.atlas");
-        atlasshoes = GAssetsManager.getTextureAtlas("shoes.atlas");
-        atlastrousers = GAssetsManager.getTextureAtlas("trousers.atlas");
-        atlasshirt = GAssetsManager.getTextureAtlas("shirt.atlas");
-        atlasdress = GAssetsManager.getTextureAtlas("dress.atlas");
-        atlasaccessories1 = GAssetsManager.getTextureAtlas("accessories1.atlas");
-        atlasaccessories2 = GAssetsManager.getTextureAtlas("accessories2.atlas");
-        atlasaccessories3 = GAssetsManager.getTextureAtlas("accessories3.atlas");
-        atlasBg = GAssetsManager.getTextureAtlas("ListBg.atlas");
-        fontRed = GAssetsManager.getBitmapFont("font_Red.fnt");
-        font = GAssetsManager.getBitmapFont("font_white.fnt");
+//        atlas = GAssetsManager.getTextureAtlas("uiGame.atlas");
+//        atlashair = GAssetsManager.getTextureAtlas("head.atlas");
+//        atlasshoes = GAssetsManager.getTextureAtlas("shoes.atlas");
+//        atlastrousers = GAssetsManager.getTextureAtlas("trousers.atlas");
+//        atlasshirt = GAssetsManager.getTextureAtlas("shirt.atlas");
+//        atlasdress = GAssetsManager.getTextureAtlas("dress.atlas");
+//        atlasaccessories1 = GAssetsManager.getTextureAtlas("accessories1.atlas");
+//        atlasaccessories2 = GAssetsManager.getTextureAtlas("accessories2.atlas");
+//        atlasaccessories3 = GAssetsManager.getTextureAtlas("accessories3.atlas");
+//        atlasBg = GAssetsManager.getTextureAtlas("ListBg.atlas");
+//        fontRed = GAssetsManager.getBitmapFont("font_Red.fnt");
+//        font = GAssetsManager.getBitmapFont("font_white.fnt");
+        this.atlas              = GameLoadding.atlas;
+        this.atlashair          = GameLoadding.atlashair;
+        this.atlasshoes         = GameLoadding.atlasshoes;
+        this.atlasshirt         = GameLoadding.atlasshirt;
+        this.atlastrousers      = GameLoadding.atlastrousers;
+        this.atlasdress         = GameLoadding.atlasdress;
+        this.atlasaccessories1  = GameLoadding.atlasaccessories1;
+        this.atlasaccessories2  = GameLoadding.atlasaccessories2;
+        this.atlasaccessories3  = GameLoadding.atlasaccessories3;
+        this.atlasBg            = GameLoadding.atlasBg;
+        this.fontRed            = GameLoadding.fontRed;
+        this.font               = GameLoadding.font;
     }
 
 

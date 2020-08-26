@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Công Chúa Thời Trang</string>
     <string name="app_id">124277552836</string>
-
+    <string name="package_name" translatable="false">jk.cloth</string>
+    <!-- leaderboard Leaderboard -->
+    <string name="leaderboard_leaderboard" translatable="false">CgkIxO2T_M4DEAIQAA</string>
 </resources>

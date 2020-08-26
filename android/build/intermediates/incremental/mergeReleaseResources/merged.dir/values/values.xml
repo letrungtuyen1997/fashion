@@ -56,7 +56,7 @@
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="app_id">124277552836</string>
     <string name="app_name">Công Chúa Thời Trang</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">bdb841a9-573a-41c2-86f7-0877826ca740</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">d758e459-d597-42e2-bc28-1727d36e5e10</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -82,6 +82,8 @@
     <string name="google_app_id" translatable="false">1:405837718412:android:f13e908afa521fcb976ca9</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlbLBGgdUCSTbzLPX1xDNtq91RbMgLLdU</string>
     <string name="google_storage_bucket" translatable="false">jkcloth-d7e29.appspot.com</string>
+    <string name="leaderboard_leaderboard" translatable="false">CgkIxO2T_M4DEAIQAA</string>
+    <string name="package_name" translatable="false">jk.cloth</string>
     <string name="project_id" translatable="false">jkcloth-d7e29</string>
     <string name="s1">Save image</string>
     <string name="s2">"Allow Ad to store image in Picture gallery?"</string>

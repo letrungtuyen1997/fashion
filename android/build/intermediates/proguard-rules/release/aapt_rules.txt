@@ -1,40 +1,40 @@
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:23
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:23
 -keep class android.support.multidex.MultiDexApplication { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:23
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:23
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:66
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:69
 -keep class com.crashlytics.android.CrashlyticsInitProvider { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:146
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:149
 -keep class com.google.android.gms.ads.AdActivity { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:152
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:155
 -keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:82
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:85
 -keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:72
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:75
 -keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:78
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:81
 -keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:97
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:100
 -keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:88
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:91
 -keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:142
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:145
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:122
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:125
 -keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:136
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:139
 -keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:117
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:120
 -keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:132
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:135
 -keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:48
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:51
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:102
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:105
 -keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:111
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:114
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
-# Referenced at /Users/dungle/Desktop/libgdx/Fashion/Template-Libgdx-AdMod-Crashlytics/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:32
+# Referenced at /Users/dungle/Desktop/libgdx/Fashion/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:32
 -keep class com.jkstudiogroup.template.AndroidLauncher { <init>(); }
 # Referenced at /Users/dungle/.gradle/caches/transforms-2/files-2.1/9d454e2b0cf721dfb5040eefd61dbf7e/res/layout/browser_actions_context_menu_page.xml:5
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
